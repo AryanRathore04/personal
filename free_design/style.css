@@ -233,7 +233,7 @@ img {
   gap: 1rem;
 }
 .cta p{
-  color: ;
+  /* color: ; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -242,4 +242,51 @@ img {
 .cta h1{
     color: rgb(68, 66, 66);
 
+}
+p{
+  text-align: center;
+}
+.cta2 button{
+  padding-right: 45px;
+    padding-left: 45px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    margin-top: 20px;
+    color: deepskyblue;
+}
+.border3{
+  border-bottom: 1px solid blue;
+   height: 1px;
+   width:220px;
+   border-radius: 100px;
+}
+.footer{
+  padding: 10px 0;
+  background-color: #f8fafa;
+}
+.footer_info{
+  width: 380px;
+ margin-top: 90px;
+ margin-left: 200px;
+}
+.footer_links{
+  width:520px;
+  float: right;
+}
+.inside_company{
+  display: flex;
+  /* text-align: center; */
+  /* align-items: center; */
+  justify-content: center;
+}
+.inside_company .about{
+  /* display: flex;
+  flex-direction: column; */
+}
+.con{
+  display: flex;
+  justify-content: center;
+  
 }
